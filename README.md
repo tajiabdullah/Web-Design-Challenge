@@ -8,6 +8,7 @@ In building this dashboard, I created individual pages for each plot and a means
 ## Website Attributes
 
 The website consists of 7 pages total, including: webpages as follows. 
+
 A landing page containing:
 * An explanation of the project
 * Links to each visualizations page with a sidebar containing preview images of each plot and a hyperlink that takes the user to that visualization.
@@ -23,7 +24,7 @@ A comparisons page that:
 
 A data page that:
 * Displays a responsive table containing the data used in the visualizations
-* **Note:** The table must be a bootstrap table component. 
+  - ***Note:** The table must be a bootstrap table component.* 
 
 ## Additional Attributes
 
